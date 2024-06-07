@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
 
-I'm Aryan, a web development enthusiast passionate about creating dynamic and responsive web applications.
+I'm Aryan, a web development enthusiast, passionate about creating dynamic and responsive web applications.
 
 ## About Me
 💻 **Proficient In:** C, C++, Python, JavaScript, TypeScript  
