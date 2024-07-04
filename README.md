@@ -2,17 +2,14 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aryannxroot&color=blueviolet&style=flat-square)
 
-I'm Aryan, a web development enthusiast, passionate about creating dynamic and responsive web applications.
-
 ## About Me
-💻 **Proficient In:** C, C++, Python, JavaScript.
-🌐 **Web Development:** HTML5, CSS3, ES6+, React.JS  
-📚 **Always Learning:** Exploring the latest trends and technologies in web development  
+I'm Aryan, a web development enthusiast, passionate about creating dynamic and responsive web applications.
 
 ## My Tech Stack
 - **Languages:** C, C++, Python, JavaScript.
 - **Web Technologies:** HTML5, CSS3, ES6+, React.JS, Node.Js, Express & MongoDB
 - **Tools:** Git, GitHub 
+- **Always Learning** Exploring the latest trends and technologies in web development  
 
 ## Connect with Me
 📧 **Email:** pal97117@gmail.com  
