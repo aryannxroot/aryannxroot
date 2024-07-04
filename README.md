@@ -1,6 +1,6 @@
 # Wassup, Devs! 
 
-![Profile Views](https://komarev.com/ghpvc/?username=aryannxroot&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
 
 ## About Me
 I'm Aryan, a web development enthusiast, passionate about creating dynamic and responsive web applications.
