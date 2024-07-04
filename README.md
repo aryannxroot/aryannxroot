@@ -1,19 +1,18 @@
-# Wassup, Devs! 👋
+# Wassup, Devs! 
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=aryannxroot&color=blueviolet&style=flat-square)
 
 I'm Aryan, a web development enthusiast, passionate about creating dynamic and responsive web applications.
 
 ## About Me
-💻 **Proficient In:** C, C++, Python, JavaScript, TypeScript  
-🌐 **Web Development:** HTML, CSS, JavaScript, TypeScript, React  
+💻 **Proficient In:** C, C++, Python, JavaScript.
+🌐 **Web Development:** HTML5, CSS3, ES6+, React.JS  
 📚 **Always Learning:** Exploring the latest trends and technologies in web development  
-🚀 **Driven By:** Building innovative solutions and solving complex problems
 
 ## My Tech Stack
-- **Languages:** C, C++, Python, JavaScript, TypeScript
-- **Web Technologies:** HTML, CSS, JavaScript, TypeScript, React
-- **Tools:** Git, GitHub, Postman, 
+- **Languages:** C, C++, Python, JavaScript.
+- **Web Technologies:** HTML5, CSS3, ES6+, React.JS, Node.Js, Express & MongoDB
+- **Tools:** Git, GitHub 
 
 ## Connect with Me
 📧 **Email:** pal97117@gmail.com  
