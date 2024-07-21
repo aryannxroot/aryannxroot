@@ -12,6 +12,7 @@ I'm Aryan, a web development enthusiast, passionate about creating dynamic and r
 
 💡 *"Transforming ideas into reality through code."* 💡
 
+![GitHub Snake Light](./assets/snake.svg)
 
 <!--
 **aryannxroot/aryannxroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
